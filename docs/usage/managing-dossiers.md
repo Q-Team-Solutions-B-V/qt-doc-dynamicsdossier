@@ -317,7 +317,7 @@ Create organization-specific reports:
 - **Support Portal**: Contact Q-Team Solutions for assistance
 
 ### Contact Support  
-- **Email**: [info@q-team.nl](mailto:info@q-team.nl)
+- **Email**: [support@q-team.nl](mailto:support@q-team.nl)
 - **Phone**: +31 030 820 13 33
 - **Online**: Submit support requests through partner portal
 

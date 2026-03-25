@@ -491,7 +491,7 @@ class DossierApi:
 - **Sample Requests**: Postman collection available for download
 
 ### Developer Support
-- **Technical Support**: [info@q-team.nl](mailto:info@q-team.nl)  
+- **Technical Support**: [support@q-team.nl](mailto:support@q-team.nl)  
 - **Developer Forum**: Community support and discussions
 - **Integration Services**: Professional integration assistance available
 

@@ -444,7 +444,7 @@ public class CertificateAuthService
 
 ### Getting Help with Authentication
 - **Documentation**: [Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
-- **Q-Team Support**: [info@q-team.nl](mailto:info@q-team.nl)
+- **Q-Team Support**: [support@q-team.nl](mailto:support@q-team.nl)
 - **Business Central APIs**: [BC API Documentation](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-reference/v2.0/)
 
 ### Related Documentation

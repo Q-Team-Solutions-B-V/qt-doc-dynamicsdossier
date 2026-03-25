@@ -60,7 +60,7 @@ This guide covers the most frequently encountered errors when using Dynamics Dos
    ```
 
 3. **Contact Q-Team Solutions**:
-   - Email: info@q-team.nl
+   - Email: support@q-team.nl
    - Provide: Company name, license key, error message
    - Include: Business Central version and environment details
 
@@ -438,7 +438,7 @@ When contacting support, provide:
 3. **Release Notes**: Check latest updates and known issues
 
 ### Professional Support
-1. **Email Support**: [info@q-team.nl](mailto:info@q-team.nl)
+1. **Email Support**: [support@q-team.nl](mailto:support@q-team.nl)
 2. **Phone Support**: +31 030 820 13 33
 3. **Emergency Support**: Available for production-critical issues
 

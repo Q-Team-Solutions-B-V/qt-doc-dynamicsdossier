@@ -317,7 +317,7 @@ Q-Team Solutions provides specialized assistance for absence management:
 - **Training Programs**: Comprehensive user and administrator training
 
 ### Contact Information
-- **Email**: [info@q-team.nl](mailto:info@q-team.nl)  
+- **Email**: [support@q-team.nl](mailto:support@q-team.nl)  
 - **Phone**: +31 030 820 13 33
 - **Documentation**: [Absence Management Docs](https://www.q-teamsolutions.com/docs/dynamics-dossier/usage)
 

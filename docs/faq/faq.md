@@ -212,7 +212,7 @@
 **Q**: What support options are available if we have issues or questions?
 
 **A**: Comprehensive support includes:
-- **24/7 email support** ([info@q-team.nl](mailto:info@q-team.nl))
+- **24/7 email support** ([support@q-team.nl](mailto:support@q-team.nl))
 - **Phone support** during business hours (+31 030 820 13 33)
 - **Online documentation** and user guides
 - **Video tutorials** and training materials
@@ -301,6 +301,37 @@
 - **User manuals** and quick reference guides
 - **Train-the-trainer** programs for internal champions
 
+## Troubleshooting
+
+### Browser blocks pop-ups for Business Central
+**Q**: I'm getting the message: "Your browser may be blocking pop-ups that are required for Business Central. Change your browser settings to allow pop-ups or to allow pop-ups from the Business Central site. Try again."
+
+**A**: This message appears when your browser blocks a pop-up that Business Central needs for certain functions like "Edit in Outlook" (which opens .eml files).
+
+**Solutions by browser:**
+
+**Microsoft Edge:**
+1. Go to: `edge://settings/content/popups`
+2. Set **Pop-ups and redirects** to **Allow**
+3. Or specifically add: `https://businesscentral.dynamics.com` to **Allow**
+
+**Google Chrome:**
+1. Go to: `chrome://settings/content/popups`  
+2. Set to **Sites can send pop-ups and use redirects**
+3. Or specifically add: `https://businesscentral.dynamics.com` to **Allow**
+
+**Quick solution (temporary):**
+- Click the block icon in the address bar (usually on the right side of the URL)
+- Choose: **Always allow pop-ups from this site**
+
+**Why this is needed:**
+Functions like "Edit in Outlook" require Business Central to open files via pop-ups. When blocked:
+- The .eml file won't download or open
+- You cannot edit emails in Outlook
+- Other download functions may not work properly
+
+**💡 Security tip:** Only allow pop-ups for Business Central and other trusted sites, not globally for all websites.
+
 ---
 
 ## Still Have Questions?
@@ -308,7 +339,7 @@
 If you couldn't find the answer to your question here, we're here to help:
 
 **Contact Q-Team Solutions:**
-- 📧 Email: [info@q-team.nl](mailto:info@q-team.nl)
+- 📧 Email: [support@q-team.nl](mailto:support@q-team.nl)
 - 📞 Phone: +31 030 820 13 33
 - 🌐 Website: [www.q-teamsolutions.com](https://www.q-teamsolutions.com)
 - 📚 Documentation: [Online Help Center](https://www.q-teamsolutions.com/docs/category/dynamics-dossier/)

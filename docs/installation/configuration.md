@@ -251,7 +251,7 @@ Q-Team Solutions offers professional configuration services:
 - **Training Services**: User and administrator training
 
 ### Contact Information
-- **Email**: [info@q-team.nl](mailto:info@q-team.nl)
+- **Email**: [support@q-team.nl](mailto:support@q-team.nl)
 - **Phone**: +31 030 820 13 33
 - **Documentation**: [Online Help](https://www.q-teamsolutions.com/docs/category/dynamics-dossier/)
 

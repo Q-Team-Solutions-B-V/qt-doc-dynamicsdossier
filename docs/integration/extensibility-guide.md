@@ -766,7 +766,7 @@ permissionset 50101 "Custom Dossier - Admin"
 ### Development Support
 - **Business Central Documentation**: [docs.microsoft.com/dynamics365/business-central/dev-itpro](https://docs.microsoft.com/dynamics365/business-central/dev-itpro)
 - **AL Language Reference**: Complete AL language documentation
-- **Q-Team Solutions**: [info@q-team.nl](mailto:info@q-team.nl) for Dynamics Dossier specific questions
+- **Q-Team Solutions**: [support@q-team.nl](mailto:support@q-team.nl) for Dynamics Dossier specific questions
 
 ### Professional Services
 Q-Team Solutions offers:

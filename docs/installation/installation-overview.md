@@ -65,7 +65,7 @@ The following apps must be installed before Dynamics Dossier:
 ### On-Premises Installation
 
 #### Step 1: Obtain Installation Files
-1. Contact Q-Team Solutions at [info@q-team.nl](mailto:info@q-team.nl)
+1. Contact Q-Team Solutions at [support@q-team.nl](mailto:support@q-team.nl)
 2. Purchase the on-premises license
 3. Download the installation files:
    - Dynamics Dossier (.app file)
@@ -156,7 +156,7 @@ Start-NAVAppDataUpgrade -ServerInstance BC260 -Name "Dynamics Dossier"
 ### Getting Help
 - **24/7 Online Support**: Available for all licensed users
 - **Documentation**: [Q-Team Solutions Docs](https://www.q-teamsolutions.com/docs/category/dynamics-dossier/)
-- **Email Support**: [info@q-team.nl](mailto:info@q-team.nl)  
+- **Email Support**: [support@q-team.nl](mailto:support@q-team.nl)  
 - **Phone Support**: +31 030 820 13 33
 
 ### Additional Resources
